@@ -1,0 +1,65 @@
+[
+    {
+        "id": 124544,
+        "name": "domenebi",
+        "zone": "ge",
+        "price": 30,
+        "categories": [111]
+    },
+    {
+        "id": 12675,
+        "name": "saitebi",
+        "zone": "net.ge",
+        "price": 20,
+        "categories": [222]
+    },
+    {
+        "id": 185324,
+        "name": "tkt",
+        "zone": "ge",
+        "price": 30,
+        "categories": [333]
+    },
+    {
+        "id": 14675357,
+        "name": "sangu",
+        "zone": "edu.ge",
+        "price": 20,
+        "categories": [111]
+    },
+    {
+        "id": 135475,
+        "name": "lemondo",
+        "zone": "com.ge",
+        "price": 40,
+        "categories": [222]
+    },
+    {
+        "id": 135753,
+        "name": "gelashvili",
+        "zone": "ge",
+        "price": 30,
+        "categories": [333]
+    },
+    {
+        "id": 137843,
+        "name": "satesto",
+        "zone": "com.ge",
+        "price": 40,
+        "categories": [111]
+    },
+    {
+        "id": 1378654,
+        "name": "saxli",
+        "zone": "net.ge",
+        "price": 20,
+        "categories": [222]
+    },
+    {
+        "id": 1767797,
+        "name": "skola",
+        "zone": "edu.ge",
+        "price": 20,
+        "categories": [333]
+    }
+]
